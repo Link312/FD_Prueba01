@@ -24,6 +24,9 @@ public class Bidimensional {
                 System.out.println("Valores:"+i+","+j+" "+bidimensional[i][j]);
             }
         }
+        
+        
     }
+    
  
 }
